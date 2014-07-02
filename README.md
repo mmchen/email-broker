@@ -3,14 +3,14 @@ Email Service Broker
 
 On this page:
 
-* [Introduction](https://github.com/mmchen/email-broker/overview#markdown-header-introduction)
-* [Structure of This Application](https://github.com/mmchen/email-broker/overview#markdown-header-structure-of-this-application)
-* [How to Run The Application](https://github.com/mmchen/email-broker/overview#markdown-header-how-to-run-the-application)
-* [Software Dependencies](https://github.com/mmchen/email-broker/overview#markdown-header-software-dependencies)
-* [Features](https://github.com/mmchen/email-broker/overview#markdown-header-features)
-* [Todo Features](https://github.com/mmchen/email-broker/overview#markdown-header-todo-features)
-* [Client Email json File Example](https://github.com/mmchen/email-broker/overview#markdown-header-client-email-json-file-example)
-* [Contact](https://github.com/mmchen/email-broker/overview#markdown-header-Contact)
+* [Introduction](https://github.com/mmchen/email-broker/overview#header-introduction)
+* [Structure of This Application](https://github.com/mmchen/email-broker/overview#header-structure-of-this-application)
+* [How to Run The Application](https://github.com/mmchen/email-broker/overview#header-how-to-run-the-application)
+* [Software Dependencies](https://github.com/mmchen/email-broker/overview#header-software-dependencies)
+* [Features](https://github.com/mmchen/email-broker/overview#header-features)
+* [Todo Features](https://github.com/mmchen/email-broker/overview#header-todo-features)
+* [Client Email json File Example](https://github.com/mmchen/email-broker/overview#header-client-email-json-file-example)
+* [Contact](https://github.com/mmchen/email-broker/overview#header-Contact)
 
 # Introduction
 
