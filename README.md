@@ -3,14 +3,14 @@ Email Service Broker
 
 On this page:
 
-* [Introduction](https://github.com/mmchen/email-broker/overview#introduction)
-* [Structure of This Application](https://github.com/mmchen/email-broker/overview#structure-of-this-application)
-* [How to Run The Application](https://github.com/mmchen/email-broker/overview#how-to-run-the-application)
-* [Software Dependencies](https://github.com/mmchen/email-broker/overview#software-dependencies)
-* [Features](https://github.com/mmchen/email-broker/overview#features)
-* [Todo Features](https://github.com/mmchen/email-broker/overview#todo-features)
-* [Client Email json File Example](https://github.com/mmchen/email-broker/overview#client-email-json-file-example)
-* [Contact](https://github.com/mmchen/email-broker/overview#Contact)
+* [Introduction](https://github.com/mmchen/email-broker#introduction)
+* [Structure of This Application](https://github.com/mmchen/email-broker#structure-of-this-application)
+* [How to Run The Application](https://github.com/mmchen/email-broker#how-to-run-the-application)
+* [Software Dependencies](https://github.com/mmchen/email-broker#software-dependencies)
+* [Features](https://github.com/mmchen/email-broker#features)
+* [Todo Features](https://github.com/mmchen/email-broker#todo-features)
+* [Client Email json File Example](https://github.com/mmchen/email-broker#client-email-json-file-example)
+* [Contact](https://github.com/mmchen/email-broker#Contact)
 
 # Introduction
 
