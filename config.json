@@ -1,0 +1,7 @@
+{
+    "provider" : "mailgun",
+    "timeout"  : 5,
+    "retries"  : 2,
+    "persist"  : "emailSent.csv",
+    "logfile"  : "emailServer.log"
+}

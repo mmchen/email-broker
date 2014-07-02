@@ -1,0 +1,19 @@
+provider,sent_ts,to,to_name,from,from_name,subject,body,delivery_time,cc,bcc
+mailgun,".*",fake@example.com,Ms. Fake,noreply@uber.com,Uber,A Message from Uber,"Your Bill
+  $10
+",,,
+mailgun,".*",fake@example.com,Ms. Fake,noreply@uber.com,Uber,A Message from Uber,"Your Bill
+  $10
+",".*",,
+mandrill,".*",fake@example.com,Ms. Fake,noreply@uber.com,Uber,A Message from Uber,"Your Bill
+  $10
+",,,
+mandrill,".*",fake@example.com,Ms. Fake,noreply@uber.com,Uber,A Message from Uber,"Your Bill
+  $10
+",".*",,
+mailgun,".*",fake@example.com,Ms. Fake,noreply@uber.com,Uber,A Message from Uber,"Your Bill
+  $10
+",,,
+mailgun,".*",fake@example.com,Ms. Fake,noreply@uber.com,Uber,A Message from Uber,"Your Bill
+  $10
+",".*",,

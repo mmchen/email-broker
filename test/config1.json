@@ -1,0 +1,4 @@
+{
+    "persist"  : "emailSent.csv",
+    "provider" : "mandrill"
+}
