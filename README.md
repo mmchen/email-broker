@@ -85,7 +85,7 @@ This application has fulfilled the required functionality and implementation req
 
 ● The service will first validate the input fields. Check if there are any missing required fields; check if there are any unsupported/duplicate fields; check if the email addresses are valid (for example, fake@example is an invalid email address).
 
-● Convert the 'body' HTML to a plain text version. For some special HTML tags, like <p>, <br>, we replace them with the corresponding texts. Otherwise, we simply remove the HTML tags.
+● Convert the 'body' HTML to a plain text version. For some special HTML tags, like \<p\>, \<br\>, we replace them with the corresponding texts. Otherwise, we simply remove the HTML tags.
 
 ● The service will send email via the provider of mailgun by default, but a simple change in config.py or configuration json file will switch over to the other provider of mandrill. 
 
